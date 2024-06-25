@@ -20,7 +20,7 @@
   - [New Zealand Diploma in Web Development and Design]()
   - [New Zealand Certificate in Information Tehnology Essentials]()
 
-<h2>📺 Favourite Covers & Originals</h2>
+<h2>📺 Music on Youtube</h2>
 
 - [I Once Beat A Giraffe - Original](https://www.youtube.com/watch?v=W4j1_hoM1aA)
 - [When We Were On Fire - James Bay Cover](https://www.youtube.com/watch?v=oEv0tdDckco)
