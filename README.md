@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>X-Platform Mobile Applications (.NET MAUI, FireBase)</b>
-  - [Hukutaia Explorer]()
+  - [Hukutaia Explorer](https://github.com/Hugh-White/Hukutaia-Explorer-Mobile-App)
   - [Tiwaiwaka Plant Collection]()
   - [Classic Calculator]()
   - [Convertify]()
