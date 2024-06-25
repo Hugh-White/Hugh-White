@@ -26,7 +26,7 @@
 - [When We Were On Fire - James Bay Cover](https://www.youtube.com/watch?v=oEv0tdDckco)
 - [Wayfaring Stranger - Ed Sheeran Cover](https://www.youtube.com/watch?v=G04OPg84N34)
 
-
+<!--
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="HughWhite | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
@@ -36,5 +36,5 @@
 [youtube]: https://www.youtube.com/@RenoNowhere
 [instagram]: https://www.instagram.com/renonowhere/
 [linkedin]: www.linkedin.com/in/hugh-white-8b024b301
-
+--!>
 
