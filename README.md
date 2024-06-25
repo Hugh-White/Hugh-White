@@ -14,7 +14,7 @@
   - [Tiwaiwaka Plant Collection (React, JavaScript, Node.js)]()
   - [Sticky Noteboard & Not Generator (Vue, JavaScript)]()
   - [Cosmere Library (MERN Stack - MongoDB, Express, React, Redux, Node)]()
-- <b>Certifications</b>
+- <b>Qualifications</b>
   - [Bachelor of Applied Information Technology]()
   - [New Zealand Diploma in Software Development]()
   - [New Zealand Diploma in Web Development and Design]()
