@@ -4,7 +4,7 @@
 
 - <b>X-Platform Mobile Applications (.NET MAUI, FireBase)</b>
   - [Hukutaia Explorer](https://github.com/Hugh-White/Hukutaia-Explorer-Mobile-App)
-  - [Tiwaiwaka Plant Collection]()
+  - [Tiwaiwaka Plant Collection](https://github.com/Hugh-White/Tiwaiwaka-Plants/tree/main)
   - [Classic Calculator]()
   - [Convertify]()
   - [BMI Calculator]()
