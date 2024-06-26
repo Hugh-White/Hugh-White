@@ -9,16 +9,16 @@
   - [Convertify](https://github.com/Hugh-White/Convertify)
   - [BMI Calculator (Fatty-Calc)](https://github.com/Hugh-White/Fatty-Calc)
   - [Hangman](https://github.com/Hugh-White/Hangman-Game)
-  - [Colour Picker]()
+  - [Colour Picker](https://github.com/Hugh-White/Colour-Picker)
 - <b>Full Stack Single Page Applications</b>
   - [Tiwaiwaka Plant Collection (React, JavaScript, Node.js)](https://bca-species-list.web.app/)
   - [Sticky Noteboard & Note Generator (Vue, JavaScript)]()
   - [Cosmere Library (MERN Stack - MongoDB, Express, React, Redux, Node)]()
 - <b>Qualifications</b>
-  - [Bachelor of Applied Information Technology]()
-  - [New Zealand Diploma in Software Development]()
-  - [New Zealand Diploma in Web Development and Design]()
-  - [New Zealand Certificate in Information Tehnology Essentials]()
+  - *Bachelor of Applied Information Technology*
+  - *New Zealand Diploma in Software Development*
+  - *New Zealand Diploma in Web Development and Design*
+  - *New Zealand Certificate in Information Tehnology Essentials*
 
 <h2>📺 Music on Youtube</h2>
 
