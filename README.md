@@ -12,7 +12,7 @@
   - [Colour Picker]()
 - <b>Full Stack Single Page Applications</b>
   - [Tiwaiwaka Plant Collection (React, JavaScript, Node.js)](https://bca-species-list.web.app/)
-  - [Sticky Noteboard & Not Generator (Vue, JavaScript)]()
+  - [Sticky Noteboard & Note Generator (Vue, JavaScript)]()
   - [Cosmere Library (MERN Stack - MongoDB, Express, React, Redux, Node)]()
 - <b>Qualifications</b>
   - [Bachelor of Applied Information Technology]()
