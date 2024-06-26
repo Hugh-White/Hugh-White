@@ -6,7 +6,7 @@
   - [Hukutaia Explorer](https://github.com/Hugh-White/Hukutaia-Explorer-Mobile-App)
   - [Tiwaiwaka Plant Collection](https://github.com/Hugh-White/Tiwaiwaka-Plants/tree/main)
   - [Classic Calculator](https://github.com/Hugh-White/Classic-Calculator)
-  - [Convertify]()
+  - [Convertify](https://github.com/Hugh-White/Convertify)
   - [BMI Calculator]()
   - [Hangman]()
   - [Colour Picker]()
