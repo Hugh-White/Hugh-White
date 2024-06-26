@@ -7,8 +7,8 @@
   - [Tiwaiwaka Plant Collection](https://github.com/Hugh-White/Tiwaiwaka-Plants/tree/main)
   - [Classic Calculator](https://github.com/Hugh-White/Classic-Calculator)
   - [Convertify](https://github.com/Hugh-White/Convertify)
-  - [BMI Calculator](https://github.com/Hugh-White/Fatty-Calc)
-  - [Hangman]()
+  - [BMI Calculator (Fatty-Calc)](https://github.com/Hugh-White/Fatty-Calc)
+  - [Hangman](https://github.com/Hugh-White/Hangman-Game)
   - [Colour Picker]()
 - <b>Full Stack Single Page Applications</b>
   - [Tiwaiwaka Plant Collection (React, JavaScript, Node.js)](https://bca-species-list.web.app/)
