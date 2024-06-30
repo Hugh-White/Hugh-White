@@ -12,8 +12,8 @@
   - [Colour Picker](https://github.com/Hugh-White/Colour-Picker)
 - <b>Full Stack Single Page Applications</b>
   - [Tiwaiwaka Plant Collection (React, JavaScript, Node.js)](https://bca-species-list.web.app/)
-  - [Sticky Noteboard & Note Generator (Vue, JavaScript)]()
-  - [Cosmere Library (MERN Stack - MongoDB, Express, React, Redux, Node)]()
+  - [Sticky Noteboard & Note Generator (Vue, JavaScript)](https://vue-notes-app-e91ee.web.app/)
+  - [Cosmere Library (MERN Stack - MongoDB, Express, React, Redux, Node)](https://cosmere-library.netlify.app/)
 - <b>Qualifications</b>
   - *Bachelor of Applied Information Technology*
   - *New Zealand Diploma in Software Development*
