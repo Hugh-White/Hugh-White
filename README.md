@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>X-Platform Mobile Applications (.NET MAUI, FireBase)</b>
+- <b>X-Platform Mobile Applications (.NET MAUI)</b>
   - [Hukutaia Explorer](https://github.com/Hugh-White/Hukutaia-Explorer-Mobile-App)
   - [Simple Skies - Simple Weather App](https://github.com/Hugh-White/SimpleSkies)
   - [Tiwaiwaka Plant Collection](https://github.com/Hugh-White/Tiwaiwaka-Plants/tree/main)
