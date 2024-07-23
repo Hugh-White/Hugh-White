@@ -6,6 +6,7 @@
   - [Hukutaia Explorer](https://github.com/Hugh-White/Hukutaia-Explorer-Mobile-App)
   - [Simple Skies - Simple Weather App](https://github.com/Hugh-White/SimpleSkies)
   - [Tiwaiwaka Plant Collection](https://github.com/Hugh-White/Tiwaiwaka-Plants/tree/main)
+  - [Coin Keeper - Money tracking app](https://github.com/Hugh-White/CoinKeeper---Cash-Tracking-App)
   - [Classic Calculator](https://github.com/Hugh-White/Classic-Calculator)
   - [Convertify](https://github.com/Hugh-White/Convertify)
   - [BMI Calculator (Fatty-Calc)](https://github.com/Hugh-White/Fatty-Calc)
